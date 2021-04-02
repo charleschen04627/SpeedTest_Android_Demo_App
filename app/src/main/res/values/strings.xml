@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Speed Test</string>
+    <string name="btn_DL_name">Download</string>
+    <string name="btn_UL_name">Upload</string>
+    <string name="progress_preparing">Preparing...</string>
+
+</resources>
